@@ -12,7 +12,6 @@ profile:
   more_info: >
     <p>Pune, India</p>
     <p><a href="mailto:neel.khairnar09@gmail.com">neel.khairnar09@gmail.com</a></p>
-    <p>Supervised by Dr. Bharat B. Kale, FRSC</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
