@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://neel-k26.github.io/sitemap.xml
