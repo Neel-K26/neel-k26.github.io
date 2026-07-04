@@ -1,14 +1,14 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Neel-K26
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - Neel-K26/MedRag
+  - Neel-K26/llm-eval
+  - Neel-K26/mlops_project1
+  - Neel-K26/AMD-HACKATHON-TRACK-2
+  - Neel-K26/Advanced-RAG-Pipeline
+  - Neel-K26/Prompt-Compression-And-Query-Optimization-LLMs
+  - Neel-K26/Pretraining-LLM-2025
+  - Neel-K26/Finetuning-LLMs

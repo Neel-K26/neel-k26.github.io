@@ -1,9 +1,7 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+# Used to color the `abbr` badge shown on each publication entry.
+# Here `abbr` is used as a lightweight status badge rather than a venue abbreviation.
+"Published":
+  color: "#15803d"
 
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
-  color: "#009f36"
+"Under Review":
+  color: "#b45309"

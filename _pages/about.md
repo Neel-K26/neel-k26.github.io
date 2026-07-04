@@ -2,16 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  Research Intern, R&D Department, Pimpri Chinchwad University · B.Tech CSE (AI/ML) · Pune, India
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Pune, India</p>
+    <p><a href="mailto:neel.khairnar09@gmail.com">neel.khairnar09@gmail.com</a></p>
+    <p>Supervised by Dr. Bharat B. Kale, FRSC</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,13 +23,35 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
+  scrollable: true
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I build AI systems that solve real scientific and industrial problems. My work spans clinical language model evaluation, physics-informed ML for materials science, production RAG systems, and agentic AI with safety and guardrail engineering. I care about systems that are measurable, deployable, and honest about their limitations.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I started learning Python and data science in 11th grade (2021), moved into deep learning in my first year of university, and have been doing independent research ever since — that path now includes a manuscript under review at an Elsevier journal. I currently work in the R&D Department at [Pimpri Chinchwad University](https://www.pcu.edu.in/), supervised by Dr. Bharat B. Kale, FRSC (Fellow, Royal Society of Chemistry).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+### Some moments along the way
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/bhatkar.jpg" title="With Dr. Vijay Bhatkar" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    With Dr. Vijay Bhatkar, the "Father of Indian Supercomputing" and architect of the PARAM series.
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/amd_hackathon.jpg" title="AMD AI Hackathon, IIT Bombay" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/kapoor.jpg" title="TEDx" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Left: with Mahdi Ghods, Senior AMD Developer, at the AMD AI Hackathon (IIT Bombay), where I built a scheduling agent on an AMD MI300X GPU.
+    Right: speaking at a TEDx event.
+</div>

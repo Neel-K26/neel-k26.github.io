@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Production systems, agentic AI, fine-tuning, computer vision, and the foundational work that started it all in 2021.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Production, Agents, Fine-tuning, Vision, Foundations]
 horizontal: false
 ---
 
